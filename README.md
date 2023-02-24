@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richa Aggarwal</h1>
 <h3 align="center">A Data Science Inspirant from India</h3>
-<p align="center"><img alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw2__y2j2ET3IIO2POddu7v-&ust=1677306541321000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCfqNLErf0CFQAAAAAdAAAAABAD"></p>
+<p align="center"><img alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richaaggarwal07&label=Profile%20views&color=0e75b6&style=flat" alt="richaaggarwal07" /> </p>
 
